@@ -35,7 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 #language: python
-dist: xenial
+#dist: xenial
 sudo: true
 
 python:
